@@ -1,0 +1,2 @@
+filename	location	fps	pxl/m	radius1[m]	radius2[m]	density_drop	visc_drop	density_bulk	visc_bulk	permittivity_bulk	ift	V	s0	L_e_tip	delm	k	delk	zeta	delzeta	c	delimiter (1tab;0comma)	f_AC
+filename1	video_location	20000	240000	5.50E-004	1	1.00E+003	9.00E-004	0.001	2.00E-005	1	7.20E-002	500	5.00E-004	0	0	0	0	0	0	0	1	DC
